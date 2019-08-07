@@ -18,5 +18,6 @@ This project contains code to add all the Azure public IPs to the Network Securi
 7. Go the runbook view and select modules
 8. In modules pane, import AzureRM.Network (with its dependencies)
 9. Add the code of [updating-nsg-rules-xml.ps1](https://github.com/hassanraha/azure-nsg-update/blob/master/updating-nsg-rules-xml.ps1 "updating-nsg-rules-xml.ps1") to edit pane
-10. Save and Run 
+10. Edit nsg name and resource group name in the code 
+11. Save and Run 
 
